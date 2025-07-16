@@ -1,5 +1,3 @@
-# Requires -RunAsAdministrator
-
 $imageUrl = "https://i.imgur.com/CrpEtxZ.jpeg"
 $tempFolder = "$env:TEMP\RestReminder"
 $imageOriginalPath = "$tempFolder\rest_reminder.jpeg"
