@@ -62,7 +62,7 @@ $formImage.Controls.Add($pictureBox)
 
 # Botón “X” en esquina superior derecha
 $btnClose = New-Object System.Windows.Forms.Button
-$btnClose.Text = "✕"
+$btnClose.Text = "X"
 $btnClose.Width = 30
 $btnClose.Height = 30
 $btnClose.Top = 5
