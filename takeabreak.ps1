@@ -1,4 +1,4 @@
-$imageUrl = "https://i.imgur.com/CrpEtxZ.jpeg"
+$imageUrl = "https://i.imgur.com/1eTkAof.jpeg"
 $tempFolder = "$env:TEMP\RestReminder"
 $imageOriginalPath = "$tempFolder\rest_reminder.jpeg"
 
@@ -31,8 +31,8 @@ $form.KeyPreview = $true
 # Formulario de imagen con botón “X”
 $formImage = New-Object System.Windows.Forms.Form
 $formImage.FormBorderStyle = 'None'
-$formImage.Width = 585
-$formImage.Height = 800
+$formImage.Width = 1920
+$formImage.Height = 1080
 $formImage.StartPosition = 'Manual'
 $formImage.TopMost = $true
 $formImage.BackColor = 'Black'
