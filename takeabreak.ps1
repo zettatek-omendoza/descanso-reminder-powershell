@@ -1,4 +1,4 @@
-$imageUrl = "https://i.imgur.com/1eTkAof.jpeg"
+$imageUrl = "https://i.imgur.com/jOhzRmH.jpeg"
 $tempFolder = "$env:TEMP\RestReminder"
 $imageOriginalPath = "$tempFolder\rest_reminder.jpeg"
 
